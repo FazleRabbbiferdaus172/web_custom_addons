@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_drop_down_x2m_lines_drop_down_x2m_lines,drop_down_x2m_lines.drop_down_x2m_lines,model_drop_down_x2m_lines_drop_down_x2m_lines,base.group_user,1,1,1,1
+access_drop_down_x2m_lines_inside,drop_down_x2m_lines_inside,model_drop_down_x2m_lines_inside,base.group_user,1,1,1,1
+access_im_sale_order,im_sale_order,model_im_sale_order,base.group_user,1,1,1,1
+access_im_sale_order_line,im_sale_order_line,model_im_sale_order_line,base.group_user,1,1,1,1
